@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
+pillow
+streamlit scikit-learn==1.6.1
